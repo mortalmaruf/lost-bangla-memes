@@ -2,7 +2,7 @@
   "name": "lost-bangla-memes",
   "version": "1.0.0",
   "private": true,
-  "homepage": "https://YOUR_GITHUB_USERNAME.github.io/lost-bangla-memes",
+  "homepage": "https://mortalmaruf.github.io/lost-bangla-memes",
   "dependencies": {
     "react": "^18.2.0",
     "react-dom": "^18.2.0"
